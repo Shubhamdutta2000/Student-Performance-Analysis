@@ -16,3 +16,7 @@ We tried to analyze the students performance based on the given attributes and f
 
 Note : In the training and prediction, We've not included previous grades, since they directly affect the final grades.
 
+
+## Install All packages
+
+     pip install -r requirements.txt
